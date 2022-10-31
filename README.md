@@ -1,3 +1,11 @@
+# Minimalistic functional emi calculator.
+
+WIP - Calculate any of the components from interest, principal, time or emi given three of them. 
+
+## [Live demo](https://cybr.cafe/emi-calculator/index.html)
+
+=== Default help from Create React help below ===
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
